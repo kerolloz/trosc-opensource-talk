@@ -3,6 +3,7 @@
 using namespace std;
 
 int main () {
-  cout << "Hello world" << endl;
+  cout << "Stay Home" << endl;
+  cout << "Stay Safe" << endl;
   return 0;
 }
