@@ -8,3 +8,4 @@ Go make your first commit, and your first PR(Pull Request).
 
 - Kerollos Magdy
 - Rokaia Ghareeb
+- Alaa Othman
